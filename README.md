@@ -1,1 +1,2 @@
-# Computer-Vision-Klasifikasi-Penyakit-Kulit-Berdasarkan-Fitur-Tekstur-Citra-Menggunakan-Metode-KNN
+# 🧠 Klasifikasi Penyakit Kulit Menggunakan Ekstraksi Fitur Tekstur (GLCM) & KNN
+Proyek ini bertujuan untuk mengklasifikasikan jenis penyakit kulit berdasarkan citra menggunakan pendekatan Computer Vision tradisional dan metode K-Nearest Neighbors (KNN). Berbeda dengan deep learning, proyek ini menggunakan ekstraksi fitur manual (GLCM) untuk menangkap karakteristik tekstur citra sebelum dilakukan klasifikasi.
