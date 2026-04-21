@@ -5,4 +5,5 @@ Proyek ini bertujuan untuk mengklasifikasikan jenis penyakit kulit berdasarkan c
 Model ini digunakan untuk mengklasifikasikan citra penyakit kulit ke dalam dua kategori:
 1. Scabies
 2. Chickenpox (Varicella)
+
 Berdasarkan hasil pengujian, model KNN mampu mencapai akurasi yang tinggi (± 98%, tergantung data yang digunakan), menunjukkan bahwa fitur tekstur dari citra cukup efektif untuk membedakan kedua jenis penyakit kulit.
