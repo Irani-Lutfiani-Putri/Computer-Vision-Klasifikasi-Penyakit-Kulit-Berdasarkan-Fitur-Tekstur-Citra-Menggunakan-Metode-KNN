@@ -27,3 +27,29 @@ Dataset yang digunakan adalah dataset citra penyakit kulit dari Kaggle:
 Dataset terdiri dari beberapa kelas penyakit, namun pada proyek ini hanya digunakan 2 kelas:
 - sc_Scabies_sarna
 - ch_Chickenpox_Varicela
+
+# 🛠️ Teknologi yang Digunakan
+- Bahasa: Python
+- Environment: Google Colab
+
+Library Utama:
+- OpenCV (cv2) → pemrosesan citra
+- Scikit-image → ekstraksi fitur GLCM
+- Scikit-learn → model KNN dan evaluasi
+- Pandas & NumPy → pengolahan data
+- Matplotlib & Seaborn → visualisasi
+
+# 🧠 Metode yang Digunakan
+🔍 K-Nearest Neighbors (KNN)
+- Mengklasifikasikan data berdasarkan kedekatan jarak antar fitur
+- Parameter utama : K (jumlah tetangga) → ditentukan melalui proses tuning (1–10)
+
+# 🚀 Cara Penggunaan
+1. Download dataset dari Kaggle
+2. Upload dataset ke Google Drive
+3. Buka Google Colab
+4. Sesuaikan path dataset pada kode
+5. Jalankan seluruh script untuk:
+   - Ekstraksi fitur
+   - Training model
+   - Evaluasi hasil
