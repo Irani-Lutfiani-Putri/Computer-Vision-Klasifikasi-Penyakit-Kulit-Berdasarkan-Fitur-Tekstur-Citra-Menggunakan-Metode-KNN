@@ -11,9 +11,8 @@ Berdasarkan hasil pengujian, model KNN mampu mencapai akurasi yang tinggi (± 98
 # 📊 Ekstraksi Fitur
 Data input berupa citra diekstraksi menjadi fitur numerik menggunakan metode GLCM (Gray Level Co-occurrence Matrix), yaitu:
 
-Contrast → perbedaan intensitas piksel
-
-Dissimilarity → ketidaksamaan tekstur
+- Contrast → perbedaan intensitas piksel
+- Dissimilarity → ketidaksamaan tekstur
 
 Homogeneity → keseragaman piksel
 
