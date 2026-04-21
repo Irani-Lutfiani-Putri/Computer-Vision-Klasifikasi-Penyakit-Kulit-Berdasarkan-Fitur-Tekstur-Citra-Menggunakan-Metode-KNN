@@ -13,13 +13,9 @@ Data input berupa citra diekstraksi menjadi fitur numerik menggunakan metode GLC
 
 - Contrast → perbedaan intensitas piksel
 - Dissimilarity → ketidaksamaan tekstur
-
-Homogeneity → keseragaman piksel
-
-Energy → kekuatan tekstur
-
-Correlation → hubungan antar piksel
-
-ASM (Angular Second Moment) → ukuran homogenitas
+- Homogeneity → keseragaman piksel
+- Energy → kekuatan tekstur
+- Correlation → hubungan antar piksel
+- ASM (Angular Second Moment) → ukuran homogenitas
 
 Fitur-fitur ini digunakan sebagai input untuk model KNN.
