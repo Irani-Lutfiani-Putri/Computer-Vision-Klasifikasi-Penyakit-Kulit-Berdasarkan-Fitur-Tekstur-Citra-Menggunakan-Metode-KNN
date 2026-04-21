@@ -1,0 +1,1 @@
+# Computer-Vision-Klasifikasi-Penyakit-Kulit-Berdasarkan-Fitur-Tekstur-Citra-Menggunakan-Metode-KNN
