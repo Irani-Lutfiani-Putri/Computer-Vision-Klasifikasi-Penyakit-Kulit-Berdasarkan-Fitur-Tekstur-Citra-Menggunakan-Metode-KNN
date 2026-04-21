@@ -53,3 +53,11 @@ Library Utama:
    - Ekstraksi fitur
    - Training model
    - Evaluasi hasil
+
+# 📈 Hasil Evaluasi
+Model dievaluasi menggunakan:
+- Accuracy Score
+- Confusion Matrix
+- Classification Report
+
+Hasil menunjukkan bahwa model KNN mampu mengklasifikasikan citra dengan performa yang sangat baik, terutama dalam membedakan pola tekstur antar penyakit kulit.
