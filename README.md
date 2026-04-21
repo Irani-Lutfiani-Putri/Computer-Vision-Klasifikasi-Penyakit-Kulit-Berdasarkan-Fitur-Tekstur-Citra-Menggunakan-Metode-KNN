@@ -22,7 +22,7 @@ Fitur-fitur ini digunakan sebagai input untuk model KNN.
 
 # 📂 Dataset
 Dataset yang digunakan adalah dataset citra penyakit kulit dari Kaggle:
-- Kaggle Dataset:https://www.kaggle.com/datasets/devdope/skin-disease-raw-dataset
+- Kaggle Dataset : https://www.kaggle.com/datasets/devdope/skin-disease-raw-dataset
 
 Dataset terdiri dari beberapa kelas penyakit, namun pada proyek ini hanya digunakan 2 kelas:
 - sc_Scabies_sarna
